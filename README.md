@@ -29,7 +29,7 @@ npm install
 ```
 
 ## Quick overview of what we're doing
-TLDR: We will developing sort of a Netflix homepage clone together using React using modern Web Development concepts.
+TLDR: We will be developing sort of a Netflix homepage clone together using React and applying modern Web Development concepts.
 
 This app will get data from an external API, [The MovieDB](https://www.themoviedb.org/). To maximize immersion, I haven't done a complete version of this app. Rather, we will be developing this together. So we need to plan, enumerate requirements, form different teams, give each team a goal, merge everything together etc. The end goal of my talk is to give you guys an experience of how modern web development is done.
 
