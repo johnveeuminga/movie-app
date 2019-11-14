@@ -1,14 +1,18 @@
 ## Prerequisites
 1. Node
+
 You can install NodeJS [here](https://nodejs.org/en/). Please make sure you select the correct(Windows, Mac, Linux). Any version above 10.10 will do. Normally, it detects what OS and architecture you're running.
 
 2. GitBash
+
 We will be using Git for collaboration purposes. Install it [here](https://git-scm.com/downloads).
 
 3. A code editor.
+
 I really suggest using [VS Code](https://code.visualstudio.com/) but using [Sublime Text 3](https://www.sublimetext.com/3) is also good.
 
 4. A GitHub account
+
 Finally, register a github account and follow the steps below to start setting up.
 
 ## Installation.
