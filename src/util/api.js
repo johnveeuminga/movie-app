@@ -22,6 +22,7 @@ export function get(url, config = {}) {
     method: 'GET',
     headers,
   }).then((res) => {
+    // Whatever you want here
     return res.json();
   });
 }

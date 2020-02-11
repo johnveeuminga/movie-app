@@ -14,12 +14,8 @@ function App() {
     <Router>
       <div className="App">
         <Switch>
-          <Route path="/" exact>
-            <Home />
-          </Route>
-          <Route path="/movie/:id">
-            <MovieSingle />
-          </Route>
+          <Route path="/" exact component={Home} />
+          <Route path="/movie/:id" component={MovieSingle} />
         </Switch>
       </div>
     </Router>
